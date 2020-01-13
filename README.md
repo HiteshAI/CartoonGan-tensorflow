@@ -16,6 +16,9 @@ This repo demonstrates how to:
 - [Train your own CartoonGAN](#Train-your-own-CartoonGAN)
 - [Generate anime using trained CartoonGAN](#generate-anime-using-trained-cartoongan)
 
+
+Using exisitng cartoons, first chnage the pic to jpeg, then upload it inside input directry and finally renme the path file
+
 ## Train your own CartoonGAN
 
 In this section, we will explain how to train a CartoonGAN using the script we provide.
