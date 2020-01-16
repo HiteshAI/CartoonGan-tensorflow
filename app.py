@@ -35,8 +35,8 @@ def index():
 
 #     print(my_output)
 
-#     return json.dumps(my_output)
-    return "Congrats, you reached nulllpointer's root!!!!"
+    return json.dumps(my_output)
+#     return "Congrats, you reached nulllpointer's root!!!!"
 
 
 
