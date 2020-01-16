@@ -3,7 +3,7 @@ import your_module # this will be your file name; minus the `.py`
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/test')
 def dynamic_page():
     return "hello"
 
